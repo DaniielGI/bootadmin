@@ -8,4 +8,4 @@ Visit https://bootadmin.net for demo and documentation.
 
 # Issues & Support
 
-Use the github issues tab for issues & support.
+Use the github issues tab for issues & support.SSSS
